@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.exe
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.deps.json
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.dll
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\bin\Debug\netcoreapp3.1\IntersectionArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.dll
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\IntersectionArray\IntersectionArray\obj\Debug\netcoreapp3.1\IntersectionArray.genruntimeconfig.cache

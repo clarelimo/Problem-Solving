@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.exe
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.deps.json
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.dll
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\bin\Debug\netcoreapp3.1\FibionacciSeries.pdb
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.dll
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.pdb
+C:\Users\Tech Jargon\Documents\Leap\FibionacciSeries\FibionacciSeries\obj\Debug\netcoreapp3.1\FibionacciSeries.genruntimeconfig.cache

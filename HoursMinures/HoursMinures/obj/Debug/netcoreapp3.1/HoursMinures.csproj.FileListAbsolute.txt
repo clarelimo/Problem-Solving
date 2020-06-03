@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.exe
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.deps.json
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.dll
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\bin\Debug\netcoreapp3.1\HoursMinures.pdb
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.dll
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.pdb
+C:\Users\Tech Jargon\Documents\Leap\HoursMinures\HoursMinures\obj\Debug\netcoreapp3.1\HoursMinures.genruntimeconfig.cache

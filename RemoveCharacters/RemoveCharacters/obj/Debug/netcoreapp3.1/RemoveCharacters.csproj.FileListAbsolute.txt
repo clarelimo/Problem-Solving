@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.exe
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.deps.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.dll
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\bin\Debug\netcoreapp3.1\RemoveCharacters.pdb
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.dll
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.pdb
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.genruntimeconfig.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveCharacters\RemoveCharacters\obj\Debug\netcoreapp3.1\RemoveCharacters.csprojAssemblyReference.cache

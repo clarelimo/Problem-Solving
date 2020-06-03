@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.exe
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.deps.json
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.dll
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\bin\Debug\netcoreapp3.1\BracketsIsBalanced.pdb
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.dll
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.pdb
+C:\Users\Tech Jargon\Documents\Leap\BracketsIsBalanced\BracketsIsBalanced\obj\Debug\netcoreapp3.1\BracketsIsBalanced.genruntimeconfig.cache

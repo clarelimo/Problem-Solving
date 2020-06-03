@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.exe
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.deps.json
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.dll
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\bin\Debug\netcoreapp3.1\Convert2DimensionalArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.dll
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\Convert2DimensionalArray\Convert2DimensionalArray\obj\Debug\netcoreapp3.1\Convert2DimensionalArray.genruntimeconfig.cache

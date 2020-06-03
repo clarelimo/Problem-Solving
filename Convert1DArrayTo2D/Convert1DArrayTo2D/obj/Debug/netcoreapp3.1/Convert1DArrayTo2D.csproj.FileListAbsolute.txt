@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.exe
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.deps.json
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.dll
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\bin\Debug\netcoreapp3.1\Convert1DArrayTo2D.pdb
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.dll
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.pdb
+C:\Users\Tech Jargon\Documents\Leap\Convert1DArrayTo2D\Convert1DArrayTo2D\obj\Debug\netcoreapp3.1\Convert1DArrayTo2D.genruntimeconfig.cache

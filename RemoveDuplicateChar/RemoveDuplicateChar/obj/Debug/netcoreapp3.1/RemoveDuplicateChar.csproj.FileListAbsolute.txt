@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.exe
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.deps.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.dll
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\bin\Debug\netcoreapp3.1\RemoveDuplicateChar.pdb
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.dll
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.pdb
+C:\Users\Tech Jargon\Documents\Leap\RemoveDuplicateChar\RemoveDuplicateChar\obj\Debug\netcoreapp3.1\RemoveDuplicateChar.genruntimeconfig.cache

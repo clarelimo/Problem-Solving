@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.exe
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.deps.json
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.dll
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.pdb
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.dll
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.pdb
+C:\Users\Tech Jargon\Documents\Leap\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.genruntimeconfig.cache

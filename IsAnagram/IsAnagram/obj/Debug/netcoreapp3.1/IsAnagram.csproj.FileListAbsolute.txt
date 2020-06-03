@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.exe
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.deps.json
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.dll
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\bin\Debug\netcoreapp3.1\IsAnagram.pdb
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.dll
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.pdb
+C:\Users\Tech Jargon\Documents\Leap\IsAnagram\IsAnagram\obj\Debug\netcoreapp3.1\IsAnagram.genruntimeconfig.cache
