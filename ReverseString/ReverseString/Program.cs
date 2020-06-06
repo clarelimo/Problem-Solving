@@ -10,8 +10,10 @@ namespace ReverseString
         {
            
            // ReverseString();
-            StringReverse();
-           // ReverseWord();
+            //StringReverse();
+            // ReverseWord();
+            char[] c = { 'h', 'e', 'l', 'l', 'o'};
+            ReversedString(c); 
         }
         public static void ReverseStack()
         {
@@ -71,6 +73,18 @@ namespace ReverseString
             }
             Console.WriteLine($"Reversed String: {ReversedString}");
             Console.ReadKey();
+        }
+        public static void ReversedString(char[] c)
+        {
+            int left = 0;
+            int right = c.Length - 1;
+            while (left < right)
+            {
+                char temp = c[left];
+                c[left++] = c[right];
+                c[right--] = temp;
+            }
+            Console.WriteLine(c);
         }
 
     }

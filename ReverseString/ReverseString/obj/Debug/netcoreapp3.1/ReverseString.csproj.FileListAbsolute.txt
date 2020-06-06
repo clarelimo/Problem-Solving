@@ -11,3 +11,16 @@ C:\Users\Tech Jargon\Documents\Leap\ReverseString\ReverseString\obj\Debug\netcor
 C:\Users\Tech Jargon\Documents\Leap\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
 C:\Users\Tech Jargon\Documents\Leap\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
 C:\Users\Tech Jargon\Documents\Leap\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\ReverseString\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
