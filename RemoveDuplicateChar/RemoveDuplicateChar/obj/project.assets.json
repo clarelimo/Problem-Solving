@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\RemoveDuplicateChar\\RemoveDuplicateChar\\RemoveDuplicateChar.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\RemoveDuplicateChar\\RemoveDuplicateChar\\RemoveDuplicateChar.csproj",
       "projectName": "RemoveDuplicateChar",
-      "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\RemoveDuplicateChar\\RemoveDuplicateChar\\RemoveDuplicateChar.csproj",
+      "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\RemoveDuplicateChar\\RemoveDuplicateChar\\RemoveDuplicateChar.csproj",
       "packagesPath": "C:\\Users\\Tech Jargon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\RemoveDuplicateChar\\RemoveDuplicateChar\\obj\\",
+      "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\RemoveDuplicateChar\\RemoveDuplicateChar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tech Jargon\\AppData\\Roaming\\NuGet\\NuGet.Config",

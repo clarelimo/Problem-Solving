@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.exe
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.deps.json
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.dll
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\bin\Debug\netcoreapp3.1\LetterChanges.pdb
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.dll
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.pdb
+C:\Users\Tech Jargon\Documents\Leap\LetterChanges\LetterChanges\obj\Debug\netcoreapp3.1\LetterChanges.genruntimeconfig.cache

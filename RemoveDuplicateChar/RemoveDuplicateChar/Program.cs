@@ -9,15 +9,20 @@ namespace RemoveDuplicateChar
             Console.WriteLine("Enter String with duplicate characters:");
             string duplicate = Console.ReadLine();
             string nonDuplicate = "";
+            int total = 0;
 
             for (int i = 0; i < duplicate.Length; i++)
             {
-                if (!nonDuplicate.Contains(duplicate[i]))
+                for (int j = 1; j < duplicate.Length; j++)
                 {
-                    nonDuplicate += duplicate[i];
+                    if (!nonDuplicate.Contains(duplicate[i]))
+                    {
+                        nonDuplicate += duplicate[i];
+                        total += duplicate[j];
+                    }
                 }
             }
-            Console.WriteLine(nonDuplicate);
+            Console.WriteLine(nonDuplicate + ","+total);
         }
         static void DuplicateInteger()
         {
@@ -27,10 +32,10 @@ namespace RemoveDuplicateChar
 
             for (int i = 0; i < dup; i++)
             {
-                if (!nonDup.)
-                {
+                //if (!nonDup.)
+                //{
 
-                }
+                //}
             }
         }
     }

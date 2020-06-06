@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.exe
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.deps.json
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.dll
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.pdb
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.dll
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.pdb
+C:\Users\Tech Jargon\Documents\Leap\LongestWord\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.genruntimeconfig.cache
