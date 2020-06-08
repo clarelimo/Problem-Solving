@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\TappingRainWater\\TappingRainWater\\TappingRainWater.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\TappingRainWater\\TappingRainWater\\TappingRainWater.csproj",
       "projectName": "TappingRainWater",
-      "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\TappingRainWater\\TappingRainWater\\TappingRainWater.csproj",
+      "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\TappingRainWater\\TappingRainWater\\TappingRainWater.csproj",
       "packagesPath": "C:\\Users\\Tech Jargon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\TappingRainWater\\TappingRainWater\\obj\\",
+      "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\TappingRainWater\\TappingRainWater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tech Jargon\\AppData\\Roaming\\NuGet\\NuGet.Config",

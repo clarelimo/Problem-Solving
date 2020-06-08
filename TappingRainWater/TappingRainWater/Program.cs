@@ -7,9 +7,9 @@ namespace TappingRainWater
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] { 1,6,8,15};
+            int[] arr = new int[] {1,28,39,50};
             Console.WriteLine(Trap(arr));
-            LinkedListAdd(arr);
+            Console.WriteLine(LinkedListAdd(arr)); 
         }
         public static int Trap(int[] height)
         {
@@ -35,24 +35,21 @@ namespace TappingRainWater
             return water;
 
         }
-        public static void LinkedListAdd(int[] nums)
+        public static string LinkedListAdd(int[] nums)
         {  
             int n = nums.Length;
-
-            for (int i = 0; i < n - 1; i++)
+            int sum = 0;
+            //1,4,7,16
+            for (int i = 0; i < n; i++)
             {
-                int sum = nums[i] + nums[i + 1];
-                //Console.WriteLine(sum);
-                if (sum < nums[i + 1])
+                if (sum > nums[i])
                 {
-                    Console.WriteLine("true");
+                    return "false";
+                    
                 }
-                else
-                {
-                    Console.WriteLine("false");
-                }
-                break;
+                sum += nums[i];
             }
+            return "true";
         }
     }
 }
