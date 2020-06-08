@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.exe
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.deps.json
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.dll
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\bin\Debug\netcoreapp3.1\TappingRainWater.pdb
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.dll
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.pdb
+C:\Users\Tech Jargon\Documents\Leap\TappingRainWater\TappingRainWater\obj\Debug\netcoreapp3.1\TappingRainWater.genruntimeconfig.cache
