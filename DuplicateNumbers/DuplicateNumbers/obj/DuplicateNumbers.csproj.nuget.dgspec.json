@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tech Jargon\\Documents\\Leap\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {}
+    "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tech Jargon\\Documents\\Leap\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {
+    "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
         "projectName": "DuplicateNumbers",
-        "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
+        "projectPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
         "packagesPath": "C:\\Users\\Tech Jargon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\DuplicateNumbers\\DuplicateNumbers\\obj\\",
+        "outputPath": "C:\\Users\\Tech Jargon\\Documents\\Leap\\Prolem Solving\\DuplicateNumbers\\DuplicateNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tech Jargon\\AppData\\Roaming\\NuGet\\NuGet.Config",

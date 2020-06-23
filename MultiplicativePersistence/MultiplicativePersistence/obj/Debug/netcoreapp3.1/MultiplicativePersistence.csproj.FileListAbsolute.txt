@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.exe
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.deps.json
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.dll
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\bin\Debug\netcoreapp3.1\MultiplicativePersistence.pdb
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.dll
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.pdb
+C:\Users\Tech Jargon\Documents\Leap\MultiplicativePersistence\MultiplicativePersistence\obj\Debug\netcoreapp3.1\MultiplicativePersistence.genruntimeconfig.cache

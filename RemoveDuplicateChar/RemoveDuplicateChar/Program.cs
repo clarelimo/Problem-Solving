@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace RemoveDuplicateChar
 {
@@ -6,6 +8,7 @@ namespace RemoveDuplicateChar
     {
         static void Main(string[] args)
         {
+            DuplicateInteger();
             Console.WriteLine("Enter String with duplicate characters:");
             string duplicate = Console.ReadLine();
             string nonDuplicate = "";
@@ -22,21 +25,23 @@ namespace RemoveDuplicateChar
                     }
                 }
             }
-            Console.WriteLine(nonDuplicate + ","+total);
+            Console.WriteLine(nonDuplicate + "," + total);
         }
         static void DuplicateInteger()
         {
             Console.WriteLine("Enter a duplicate integer");
-            int dup = Convert.ToInt32(Console.ReadLine());
-            int nonDup;
-
-            for (int i = 0; i < dup; i++)
+            string dup = Console.ReadLine();
+            var hs = new HashSet<char>();
+            foreach (var item in dup)
             {
-                //if (!nonDup.)
-                //{
-
-                //}
+                if (!hs.Contains(item))
+                {
+                    hs.Add(item);
+                }
             }
+            Console.WriteLine(string.Join(",", hs));
+
+            
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.exe
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.deps.json
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.dll
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.dll
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.pdb
+C:\Users\Tech Jargon\Documents\Leap\RotateArray\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.genruntimeconfig.cache

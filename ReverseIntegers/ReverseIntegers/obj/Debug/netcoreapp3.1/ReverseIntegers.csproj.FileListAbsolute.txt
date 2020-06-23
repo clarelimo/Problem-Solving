@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.exe
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.deps.json
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.dll
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\bin\Debug\netcoreapp3.1\ReverseIntegers.pdb
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.dll
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.pdb
+C:\Users\Tech Jargon\Documents\Leap\ReverseIntegers\ReverseIntegers\obj\Debug\netcoreapp3.1\ReverseIntegers.genruntimeconfig.cache

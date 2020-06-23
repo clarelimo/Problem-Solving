@@ -7,7 +7,7 @@ namespace TappingRainWater
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] {1,28,39,50};
+            int[] arr = new int[] { 3, 0, 0, 2, 0, 4 };
             Console.WriteLine(Trap(arr));
             Console.WriteLine(LinkedListAdd(arr)); 
         }

@@ -11,3 +11,16 @@ C:\Users\Tech Jargon\Documents\Leap\DuplicateNumbers\DuplicateNumbers\obj\Debug\
 C:\Users\Tech Jargon\Documents\Leap\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.dll
 C:\Users\Tech Jargon\Documents\Leap\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.pdb
 C:\Users\Tech Jargon\Documents\Leap\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.genruntimeconfig.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.exe
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.deps.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.runtimeconfig.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.dll
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\bin\Debug\netcoreapp3.1\DuplicateNumbers.pdb
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.AssemblyInfo.cs
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.dll
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.pdb
+C:\Users\Tech Jargon\Documents\Leap\Prolem Solving\DuplicateNumbers\DuplicateNumbers\obj\Debug\netcoreapp3.1\DuplicateNumbers.genruntimeconfig.cache
